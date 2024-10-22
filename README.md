@@ -71,12 +71,9 @@ You can use tools like [GraphiQL](https://github.com/graphql/graphiql) or [Postm
     }
     ```
 
-## Contributing
-Feel free to submit issues and pull requests. Contributions are welcome!
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-## Contact
-For any questions or feedback, please reach out to [your-email@example.com].
 
