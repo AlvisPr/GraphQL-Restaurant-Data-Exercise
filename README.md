@@ -18,7 +18,7 @@ This project is designed to cover the basics of GraphQL by working with restaura
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/graphql-restaurant-data-exercise.git
+    https://github.com/AlvisPr/GraphQL-Restaurant-Data-Exercise
     ```
 2. Navigate to the project directory:
     ```bash
